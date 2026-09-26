@@ -2,7 +2,6 @@
 
 ## Ejercicio 1
 Análisis de JavaScript según los componentes de Kuhn y los ejes para elegir un lenguaje.
-Ver [Ejercicio1/respuestas.md](./Ejercicio1/respuestas.md)
 
 ## Ejercicio 2 - Calculadora
 Calculadora de consola en Node.js: suma, resta, multiplicación y división entre dos números, con menú interactivo.
