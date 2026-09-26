@@ -1,12 +1,9 @@
-¡Ah, entiendo perfecto! Me pedías usar los símbolos de Markdown (como `#` para los títulos principales, `**` para negritas, o los guiones para las listas) pero **respetando exactamente tus palabras y oraciones originales**, sin reescribir ni cambiar la redacción que me pasaste al principio.
 
-Aquí lo tenés formateado con Markdown exacto para tu `README.md`, manteniendo tu texto tal cual lo escribiste:
+# EJERCICIO 1 
 
----
-
+* **1. Generalización simbólica: ¿Cuáles son las reglas escritas del lenguaje?**
+* **2. Creencias de los profesionales: ¿Qué características particulares del lenguaje se cree que sean "mejores" que en otros lenguajes?**
 # 1. Generalización simbólica — las reglas escritas del lenguaje
-
-Acotado a Programación Estructurada (sin clases, herencia ni polimorfismo), las reglas formales más relevantes de TypeScript son:
 
 * **Tipado estático explícito:** toda variable, parámetro de función y valor de retorno puede (y en modo strict debe) declarar su tipo — `let cantidad: number`, `function crearTarea(titulo: string): Tarea`.
 * **Tipos literales y de unión:** `type Estado = "Pendiente" | "En Curso" | "Terminada" | "Cancelada"` restringe una variable a un conjunto cerrado y finito de valores válidos — regla que no existe en JavaScript puro.
